@@ -42,20 +42,11 @@ Passionate about building scalable web applications & exploring modern technolog
 
 ---
 
-## 🔥 What I Enjoy Building
-
-✔ Full Stack Web Apps  
-✔ Interactive UI Projects  
-✔ Backend Systems & APIs  
-✔ Automation / Python Tools  
-
----
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/YOUR_USERNAME
-- ✉️ Email: your-email@example.com
-
+- 💼 GitHub: https://github.com/Varun251005
+  
 ---
 
 ⭐ *Always learning, always building.*
