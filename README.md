@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Varun Kumar
 
-🚀 **Full Stack Developer**  
-💡 Passionate about building scalable web applications & exploring modern technologies
+**Aspiring Developer**  
+Passionate about building scalable web applications & exploring modern technologies
 
 ---
 
 ## 🧑‍💻 About Me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&pause=700&color=00F0FF&center=true&vCenter=true&width=760&lines=Initializing+Profile...;Varun+Kumar+Online+🎮;Full+Stack+Developer;AI+%26+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=900&color=FFD700&center=true&vCenter=true&width=800&lines=INSERT+COIN;PLAYER+NAME:+VARUN+KUMAR;ROLE:+FULL+STACK+DEVELOPER;SPECIAL:+AI+%26+TECH" />
 </p>
 
 ---
