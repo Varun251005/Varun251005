@@ -34,8 +34,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/Varun251005
-  
+- GitHub: https://github.com/Varun251005
+- LinkedIn:https://www.linkedin.com/in/varun-kumar-r-a00baa300
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=850&color=FFD700&center=true&vCenter=true&width=1000&duration=3200&lines=THANK+YOU+FOR+VISITING;PLAYER:+VARUN+KUMAR;STATUS:+STILL+GRINDING+💻;NEXT+UP:+MORE+AWESOME+PROJECTS" />
