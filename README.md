@@ -41,3 +41,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=850&color=FFD700&center=true&vCenter=true&width=1000&duration=3200&lines=THANK+YOU+FOR+VISITING;PLAYER:+VARUN+KUMAR;NEXT+UP:+MORE+AWESOME+PROJECTS" />
 </p>
+-------------------------------
