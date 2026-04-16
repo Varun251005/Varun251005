@@ -1,5 +1,5 @@
 
-#About ME
+About ME
 ---
 
 <!-- 🎮 Game Intro Section -->
