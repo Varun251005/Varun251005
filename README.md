@@ -48,6 +48,7 @@
 ### 🔹 **[MoneyMate](https://github.com/Varun251005/MoneyMate)**
 
 A Flutter app for personal finance management and analytics.
+
 **Tech:** Flutter, Dart, SQLite
 
 ---
@@ -55,6 +56,7 @@ A Flutter app for personal finance management and analytics.
 ### 🔹 **[CrimsonBladeGame](https://github.com/Varun251005/CrimsonBladeGame)**
 
 A 2D fighting game with smooth animations.
+
 🌐 https://varun251005.github.io/CrimsonBladeGame/
 
 ---
@@ -62,6 +64,7 @@ A 2D fighting game with smooth animations.
 ### 🔹 **[FocusFlow](https://github.com/Varun251005/FocusFlow)**
 
 A productivity web app to manage tasks efficiently.
+
 🌐 https://focusfloww1.web.app/login
 
 ---
@@ -69,6 +72,7 @@ A productivity web app to manage tasks efficiently.
 ### 🔹 **Voice Assistant**
 
 Python-based assistant for automation tasks.
+
 **Tech:** speech_recognition, pyttsx3
 
 ---
@@ -76,6 +80,7 @@ Python-based assistant for automation tasks.
 ### 🔹 **[Text2Image](https://github.com/Varun251005/text2image)**
 
 AI-powered text-to-image generator.
+
 🌐 https://text2image-46dbb.web.app
 
 ---
