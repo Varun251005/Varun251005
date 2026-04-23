@@ -1,45 +1,123 @@
+<h1 align="center">Hi 👋, I'm Varun Kumar</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
 
-About ME
----
-
-<!-- 🎮 Game Intro Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=700&color=FFD700&center=true&vCenter=true&width=1000&duration=3200&lines=BOOTING+SYSTEM...;LOADING+DEVELOPER+PROFILE...;PLAYER+DETECTED:+VARUN+KUMAR;CLASS:+ASPIRING+DEVELOPER;ROLE:+FULL+STACK+DEVELOPER;SPECIAL:+AI+ENTHUSIAST;READY+TO+BUILD+🚀" />
-</p>
+<!-- 👁 PROFILE VIEWS -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" />
+  <img src="https://komarev.com/ghpvc/?username=Varun251005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
-
 
 ---
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=800&color=FFD700&vCenter=true&width=700&duration=2800&lines=PLAYER+PROFILE;ABOUT+THE+DEVELOPER" />
+<!-- 🔥 TYPING INTRO (YELLOW ONLY HERE) -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+* 💻 Passionate about building real-world applications
+* 🚀 Focused on **React, TypeScript, Backend Systems & AI Integration**
+* 🧠 Exploring **AI-powered tools and automation systems**
+* ⚡ Interested in scalable and impactful web applications
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **[MoneyMate](https://github.com/Varun251005/MoneyMate)**
+
+A Flutter app for personal finance management and analytics.
+**Tech:** Flutter, Dart, SQLite
+
+---
+
+### 🔹 **[CrimsonBladeGame](https://github.com/Varun251005/CrimsonBladeGame)**
+
+A 2D fighting game with smooth animations.
+🌐 https://varun251005.github.io/CrimsonBladeGame/
+
+---
+
+### 🔹 **[FocusFlow](https://github.com/Varun251005/FocusFlow)**
+
+A productivity web app to manage tasks efficiently.
+🌐 https://focusfloww1.web.app/login
+
+---
+
+### 🔹 **Voice Assistant**
+
+Python-based assistant for automation tasks.
+**Tech:** speech_recognition, pyttsx3
+
+---
+
+### 🔹 **[Text2Image](https://github.com/Varun251005/text2image)**
+
+AI-powered text-to-image generator.
+🌐 https://text2image-46dbb.web.app
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun251005&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun251005&theme=github-dark" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun251005&layout=compact&theme=github_dark"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Varun251005
-- LinkedIn:https://www.linkedin.com/in/varun-kumar-r-a00baa300
----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=850&color=FFD700&center=true&vCenter=true&width=1000&duration=3200&lines=THANK+YOU+FOR+VISITING;PLAYER:+VARUN+KUMAR;NEXT+UP:+MORE+AWESOME+PROJECTS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&background=000000&center=true&vCenter=true&width=500&lines=varun@linux:~$+Varun+Kumar" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/Varun251005">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/varun-kumar-r-a00baa300">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+
