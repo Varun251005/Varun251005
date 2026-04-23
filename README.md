@@ -91,10 +91,10 @@ AI-powered text-to-image generator.
   <img src="https://github-readme-stats.vercel.app/api?username=Varun251005&show_icons=true&theme=github_dark" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun251005&theme=github-dark" height="180"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun251005&layout=compact&theme=github_dark"/>
 </p>
----
 
 ## 📫 Connect With Me
 
