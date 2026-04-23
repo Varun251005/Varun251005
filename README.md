@@ -1,14 +1,4 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
-
-<!-- 👁 PROFILE VIEWS -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varun251005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
 <!-- 🔥 TYPING INTRO (YELLOW ONLY HERE) -->
 
 <p align="center">
@@ -116,6 +106,11 @@ AI-powered text-to-image generator.
   <a href="https://www.linkedin.com/in/varun-kumar-r-a00baa300">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+  <!-- 👁 PROFILE VIEWS -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varun251005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 </p>
 
 ---
