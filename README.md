@@ -69,7 +69,7 @@ A productivity web app to manage tasks efficiently.
 
 ---
 
-### 🔹 **Voice Assistant**
+### 🔹 **[Voice Assistant](https://github.com/Varun251005/VoiceChatbot.git)**
 
 Python-based assistant for automation tasks.
 
