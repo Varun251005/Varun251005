@@ -93,7 +93,6 @@ AI-powered text-to-image generator.
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
