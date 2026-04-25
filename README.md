@@ -93,14 +93,15 @@ AI-powered text-to-image generator.
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun251005&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Varun251005&theme=radical&hide_border=true" height="180"/>
   
-  <img src="https://streak-stats.demolab.com?user=Varun251005&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun251005&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 </p>
+
+
 
 ## 📫 Connect With Me
 
@@ -120,6 +121,9 @@ AI-powered text-to-image generator.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Varun251005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=80&section=footer"/>
 </p>
 
 ---
