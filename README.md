@@ -53,6 +53,14 @@ A Flutter app for personal finance management and analytics.
 
 ---
 
+### 🔹 **[OrderEase](https://github.com/Varun251005/booking)**
+
+OrderEase is a full-stack food ordering web application that allows users to browse menu items, add them to a cart, and place orders. It also includes an admin panel to manage food items and orders.
+
+🌐 https://orderease0.netlify.app
+
+---
+
 ### 🔹 **[CrimsonBladeGame](https://github.com/Varun251005/CrimsonBladeGame)**
 
 A 2D fighting game with smooth animations.
